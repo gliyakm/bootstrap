@@ -1,0 +1,10 @@
+.form-label{
+    color: peru;
+}
+.form-control{
+    width: 50%;
+}
+.container_cards{
+    display: flex;
+    justify-content: space-evenly;
+}
